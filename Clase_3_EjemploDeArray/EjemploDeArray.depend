@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567430626 source:c:\users\alumno\desktop\ejemplodearray\main.c
+	<stdio.h>
+	<stdlib.h>
+
