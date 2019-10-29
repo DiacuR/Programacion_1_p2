@@ -1,0 +1,17 @@
+ll_set 				agrega un elem en un lugar del linkedlist pisando lo que habia antes
+
+ll_clear 			Limpia los elem del linked
+
+ll_deleteLinkedList		Elimina linked
+
+ll_push 			Agrega elem en el index que queres sin pisar el elem anterior osea lo mete en el medio de dos elem
+
+ll_pop				Sirbe para sacar de la linked devolviendo el elem sacado para ponerlo en otra linked
+
+ll_subList			Sirbe para sacar una sublista de un punto al otro(devolviendola como retorno)
+
+ll_clone			Copia una linked completa.
+
+ll_sort				Ordena. 
+
+ll_containsAll			Si una lista contiene otra
